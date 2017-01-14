@@ -7,18 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/htmlunit-2.24.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" exported="" name="httpclient-4.5.2" level="project" />
-    <orderEntry type="library" name="cssparser-0.9.21" level="project" />
-    <orderEntry type="library" name="sac" level="project" />
     <orderEntry type="library" name="commons-codec-1.10" level="project" />
   </component>
 </module>

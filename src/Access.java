@@ -102,8 +102,8 @@ public class Access {
     }
 
     public static void main(String[] args) throws Exception {
-        String userName = "xxxxxxxxxxx";        //此处输入你的账号
-        String password = "xxxxxxxxxxx";        //此处输入你的密码
+        String userName = "18635792910";        //此处输入你的账号
+        String password = "...";        //此处输入你的密码
         Access access = new Access(5);
         access.login(userName,password);
 //        access.send("测试！！！");
